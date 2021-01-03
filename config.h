@@ -3,8 +3,8 @@
 static const Block blocks[] = {
 	/* icon      command          update: time    signal*/
 	{ "",        "sb-music",              5,      11},
-	{ "",        "sb-news",               0,      6},
 	{ "",        "sb-mailbox",            180,    12},
+	{ "",        "sb-news",               0,      6},
 	{ "",        "sb-clock",              60,     1},
 	{ "",        "sb-internet",           5,      4},
 	{ "",        "printf ';'",            0,      4},
